@@ -1,1 +1,3 @@
 # test_project2
+
+first project to figure out how github works...
